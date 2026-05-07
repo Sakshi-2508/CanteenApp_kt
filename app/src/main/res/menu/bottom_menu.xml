@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Food/Home -->
+    <item
+        android:id="@+id/nav_food"
+        android:title="Food"
+        android:icon="@drawable/outline_fastfood_24"/>
+
+    <!-- Cart -->
+    <item
+        android:id="@+id/nav_cart"
+        android:title="Cart"
+        android:icon="@drawable/outline_shopping_cart_24"/>
+
+    <!-- Orders -->
+    <item
+        android:id="@+id/nav_orders"
+        android:title="Orders"
+        android:icon="@drawable/outline_orders_24"/>
+
+    <!-- Profile -->
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/outline_person_24"/>
+
+</menu>
