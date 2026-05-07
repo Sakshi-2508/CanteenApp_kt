@@ -30,11 +30,16 @@
 ---
 
 ## 📸 Screenshots
+|                 Home Screen                  |                  Cart                  |                       Orders                       |                    Profile                     |
+|:--------------------------------------------:|:--------------------------------------------:|:------------------------------------------------:|:----------------------------------------------:|
+| <img src="app/src/main/res/drawable/home.jpeg" width="300" height="500"/> | <img src="app/src/main/res/drawable/cart.jpeg" width="300" height="500"/> | <img src="app/src/main/res/drawable/orders.jpeg" width="300" height="500"/> | <img src="app/src/main/res/drawable/profile.jpeg" width="300" height="500"/> |
 
-|                 Home Screen                  |                  Categories                  |                       Cart                       |               Profile
-|:--------------------------------------------:|:--------------------------------------------:|:------------------------------------------------:|
-| ![Home](app/src/main/res/drawable/home.jpeg) | ![Cart](app/src/main/res/drawable/cart.jpeg) | ![Orders](app/src/main/res/drawable/orders.jpeg) | ![Profile](app/src/main/res/drawable/profile.jpeg)
 *(Note: Replace these placeholders with actual screenshots of your app running on an emulator or device!)*
+
+<p align="left">
+  <img src="screenshots/image.png" width="300" height="500"/>
+  <img src="screenshots/image1.png" width="300" height="500"/>
+</p>
 
 ---
 
