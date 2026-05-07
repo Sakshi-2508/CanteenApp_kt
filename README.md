@@ -35,12 +35,6 @@
 | <img src="app/src/main/res/drawable/home.jpeg" width="300" height="500"/> | <img src="app/src/main/res/drawable/cart.jpeg" width="300" height="500"/> | <img src="app/src/main/res/drawable/orders.jpeg" width="300" height="500"/> | <img src="app/src/main/res/drawable/profile.jpeg" width="300" height="500"/> |
 
 *(Note: Replace these placeholders with actual screenshots of your app running on an emulator or device!)*
-
-<p align="left">
-  <img src="screenshots/image.png" width="300" height="500"/>
-  <img src="screenshots/image1.png" width="300" height="500"/>
-</p>
-
 ---
 
 ## 🏁 Getting Started
